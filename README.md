@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shahzaibhaider748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahzaibhaider748" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01c9dab0141e072da6" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9O1n4QYgSocVU4jtQAcrb2EGOoesZmeSkg&s" alt="shahzaibhaider748" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
