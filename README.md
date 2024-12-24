@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Haider</h1>
 <h3 align="center">A passionate frontend and React-Native developer</h3>
-<img height="400" width="1000" align="right" alt="Coding"  src="https://user-images.githubusercontent.com/86276393/196288089-dfcb900c-4a27-4f82-95dd-eb0233461bfa.gif" alt="shahzaibhaider746" /> 
+<img height="400" width="1000" align="right" alt="Coding"  src="https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif" alt="shahzaibhaider746" /> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibhaider746" alt="shahzaibhaider746" /></a> </p>
 
