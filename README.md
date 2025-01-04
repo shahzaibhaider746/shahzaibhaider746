@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Haider</h1>
-<h3 align="center">A passionate frontend and mobile app developer</h3>
+<h3 align="center">A passionate  mobile app developer</h3>
 <img height="400" width="1000" align="right" alt="Coding"  src="https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif" alt="shahzaibhaider746" /> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibhaider746" alt="shahzaibhaider746" /></a> </p>
